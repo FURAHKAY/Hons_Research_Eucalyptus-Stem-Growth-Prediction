@@ -1,0 +1,10 @@
+LSTM Evaluation Results for stellenbosch:
+Mean Squared Error (MSE): 30108.757356832
+Mean Absolute Error (MAE): 123.25938030426855
+R² Score: 0.9472996592521667
+Root Mean Squared Error (RMSE): 173.51875217633395
+Accuracy: 94.73%
+Mean Absolute Percentage Error (MAPE): 2.57%
+Mean Bias Error (MBE): 6.80
+Model Efficiency Index (MEI): Dendro    0.9473
+dtype: float64

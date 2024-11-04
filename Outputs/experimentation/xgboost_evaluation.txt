@@ -1,0 +1,6 @@
+XGBoost Model Performance:
+Mean Absolute Error (MAE): 250.38758438051056
+Mean Squared Error (MSE): 145050.52018799185
+Root Mean Squared Error (RMSE): 380.8549857727897
+R� Score: 0.8114002204292643
+Best Parameters: {'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 300, 'subsample': 0.8}

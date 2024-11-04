@@ -1,0 +1,5 @@
+LSTM Model Performance:
+Mean Absolute Error (MAE): 744.6978826976027
+Mean Squared Error (MSE): 769096.8212464198
+Root Mean Squared Error (RMSE): 876.9816538824629
+R² Score: -6.692617408043944e-06

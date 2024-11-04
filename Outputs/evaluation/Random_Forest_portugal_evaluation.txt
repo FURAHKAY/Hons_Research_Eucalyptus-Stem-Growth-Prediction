@@ -1,0 +1,9 @@
+Random Forest Evaluation Results for portugal:
+Mean Squared Error (MSE): 9044.853603522066
+Mean Absolute Error (MAE): 37.360289054708716
+R² Score: 0.9893542719683002
+Root Mean Squared Error (RMSE): 95.1044352463231
+Accuracy: 98.94%
+Mean Absolute Percentage Error (MAPE): 0.88%
+Mean Bias Error (MBE): -0.40
+Model Efficiency Index (MEI): 0.9893542719683002

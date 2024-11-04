@@ -1,0 +1,9 @@
+Linear Regression Evaluation Results for stellenbosch:
+Mean Squared Error (MSE): 541409.2856434599
+Mean Absolute Error (MAE): 618.5598117143612
+R² Score: 0.056063391168979626
+Root Mean Squared Error (RMSE): 735.8051954447318
+Accuracy: 5.61%
+Mean Absolute Percentage Error (MAPE): 12.90%
+Mean Bias Error (MBE): -11.59
+Model Efficiency Index (MEI): 0.056063391168979626

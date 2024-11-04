@@ -1,0 +1,9 @@
+Linear Regression Evaluation Results for full:
+Mean Squared Error (MSE): 552239.8485823856
+Mean Absolute Error (MAE): 626.3274864639978
+R² Score: 0.2583003595732134
+Root Mean Squared Error (RMSE): 743.1284199802787
+Accuracy: 25.83%
+Mean Absolute Percentage Error (MAPE): 13.75%
+Mean Bias Error (MBE): -5.60
+Model Efficiency Index (MEI): 0.2583003595732134

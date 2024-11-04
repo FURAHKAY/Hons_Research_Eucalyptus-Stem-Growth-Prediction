@@ -1,0 +1,9 @@
+XGBoost Evaluation Results for portugal:
+Mean Squared Error (MSE): 16795.002041313357
+Mean Absolute Error (MAE): 80.03991152296211
+R² Score: 0.9802324026611063
+Root Mean Squared Error (RMSE): 129.5955324897944
+Accuracy: 98.02%
+Mean Absolute Percentage Error (MAPE): 1.89%
+Mean Bias Error (MBE): -1.40
+Model Efficiency Index (MEI): 0.9802324026611063

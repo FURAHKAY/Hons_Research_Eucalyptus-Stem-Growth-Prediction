@@ -1,0 +1,9 @@
+XGBoost Evaluation Results for stellenbosch:
+Mean Squared Error (MSE): 35399.347043792994
+Mean Absolute Error (MAE): 125.83007750521928
+R² Score: 0.9382819236954215
+Root Mean Squared Error (RMSE): 188.14714200272348
+Accuracy: 93.83%
+Mean Absolute Percentage Error (MAPE): 2.62%
+Mean Bias Error (MBE): -1.25
+Model Efficiency Index (MEI): 0.9382819236954215

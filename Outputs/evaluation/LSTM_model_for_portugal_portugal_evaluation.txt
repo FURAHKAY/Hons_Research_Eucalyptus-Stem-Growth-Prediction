@@ -1,0 +1,10 @@
+LSTM model for portugal Evaluation Results for portugal:
+Mean Squared Error (MSE): 21938.43138751131
+Mean Absolute Error (MAE): 98.02540045514465
+R² Score: 0.9742145538330078
+Root Mean Squared Error (RMSE): 148.11627657861007
+Accuracy: 97.42%
+Mean Absolute Percentage Error (MAPE): 2.30%
+Mean Bias Error (MBE): 2.75
+Model Efficiency Index (MEI): Dendro    0.974215
+dtype: float64

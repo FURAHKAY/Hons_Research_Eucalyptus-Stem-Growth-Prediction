@@ -1,0 +1,10 @@
+LSTM model for full Evaluation Results for full:
+Mean Squared Error (MSE): 25888.753081137915
+Mean Absolute Error (MAE): 108.02456276142055
+R² Score: 0.9654086828231812
+Root Mean Squared Error (RMSE): 160.89982312338915
+Accuracy: 96.54%
+Mean Absolute Percentage Error (MAPE): 2.36%
+Mean Bias Error (MBE): 5.43
+Model Efficiency Index (MEI): Dendro    0.965409
+dtype: float64

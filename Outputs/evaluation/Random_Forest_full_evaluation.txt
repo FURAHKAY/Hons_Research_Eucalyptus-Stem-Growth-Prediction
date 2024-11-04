@@ -1,0 +1,9 @@
+Random Forest Evaluation Results for full:
+Mean Squared Error (MSE): 15244.886827899425
+Mean Absolute Error (MAE): 55.69846059769811
+R² Score: 0.9795249707031722
+Root Mean Squared Error (RMSE): 123.47018598795187
+Accuracy: 97.95%
+Mean Absolute Percentage Error (MAPE): 1.21%
+Mean Bias Error (MBE): 1.29
+Model Efficiency Index (MEI): 0.9795249707031722

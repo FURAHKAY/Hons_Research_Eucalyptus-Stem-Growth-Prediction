@@ -1,0 +1,9 @@
+Random Forest Evaluation Results for stellenbosch:
+Mean Squared Error (MSE): 21126.722783734796
+Mean Absolute Error (MAE): 71.97682300384747
+R² Score: 0.9631659678010686
+Root Mean Squared Error (RMSE): 145.35034497287853
+Accuracy: 96.32%
+Mean Absolute Percentage Error (MAPE): 1.50%
+Mean Bias Error (MBE): -0.70
+Model Efficiency Index (MEI): 0.9631659678010686

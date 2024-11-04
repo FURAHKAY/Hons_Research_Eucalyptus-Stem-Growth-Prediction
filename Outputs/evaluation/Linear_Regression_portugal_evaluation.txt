@@ -1,0 +1,9 @@
+Linear Regression Evaluation Results for portugal:
+Mean Squared Error (MSE): 430178.0013895655
+Mean Absolute Error (MAE): 546.6880383286358
+R² Score: 0.49368356761128507
+Root Mean Squared Error (RMSE): 655.8795631741895
+Accuracy: 49.37%
+Mean Absolute Percentage Error (MAPE): 12.77%
+Mean Bias Error (MBE): 8.35
+Model Efficiency Index (MEI): 0.49368356761128507

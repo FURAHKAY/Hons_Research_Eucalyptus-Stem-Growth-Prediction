@@ -1,0 +1,46 @@
+data:
+  raw_data_path: '../Data/raw/eucalyptus_growth_environment_data_V3.csv'
+  processed_data_path: '../Data/processed/preprocessed_data.csv'  # Path to specific processed data file
+  processed_dir: '../Data/processed'
+  splits_dir: '../Data/splits'
+
+
+model:
+  output_dir: '../Models'  # Example for model output directory; adjust as needed
+  use_random_forest: True
+  use_xgboost: True
+  use_lstm: True
+  use_linear_regression: True
+
+outputs:
+  predictions_dir: '../outputs/predictions'             # Directory for predictions
+  evaluation_dir: '../outputs/evaluation'
+  experimentation_dir: '../outputs/experimentation'               # Directory for experimentation results
+  visuals_dir: '../outputs/visuals'                     # Main visuals directory
+  rf_visual_dir: '../outputs/visuals/random_forest'     # Visuals for Random Forest
+  xgb_visual_dir: '../outputs/visuals/xgboost'          # Visuals for XGBoost
+  lstm_visual_dir: '../outputs/visuals/lstm'            # Visuals for LSTM
+  lr_visual_dir: '../outputs/visuals/linear_regression' # Visuals for Linear Regression
+
+preprocessing:
+  device_ids: [4, 5, 6, 7, 8, 9, 10]
+  features: ['Device_ID', 'Air Temp', 'Air Hum', 'Soil Temp', 'Soil Moisture', 'VPD']
+  target: 'Dendro'
+  test_size: 0.2
+  random_state: 42
+  n_timesteps: 10
+
+random_forest:
+  n_estimators: 100
+  random_state: 42
+
+xgboost:
+  n_estimators: 100
+  random_state: 42
+
+lstm:
+  units: 100
+  dropout_rate: 0.2
+  learning_rate: 0.0001
+  epochs: 100
+  batch_size: 64

@@ -1,0 +1,9 @@
+XGBoost Evaluation Results for full:
+Mean Squared Error (MSE): 31077.935376938207
+Mean Absolute Error (MAE): 118.84981999250947
+R² Score: 0.9582599959900517
+Root Mean Squared Error (RMSE): 176.2893512862822
+Accuracy: 95.83%
+Mean Absolute Percentage Error (MAPE): 2.61%
+Mean Bias Error (MBE): 1.67
+Model Efficiency Index (MEI): 0.9582599959900517

@@ -1,0 +1,6 @@
+Random Forest Model Performance:
+Mean Absolute Error (MAE): 154.2168359828714
+Mean Squared Error (MSE): 96540.61760793884
+Root Mean Squared Error (RMSE): 310.7098608154219
+R² Score: 0.8744744991132594
+Best Parameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
